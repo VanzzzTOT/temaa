@@ -12,7 +12,7 @@ clear
 echo -e "${CYAN}"
 echo "=================================================="
 echo "          🚀 AUTO INSTALL PHPMYADMIN v5.2.1       "
-echo "           by Sunda Cloud - Bash Script          "
+echo "           by Spacehost - Bash Script          "
 echo "=================================================="
 echo -e "${NC}"
 
